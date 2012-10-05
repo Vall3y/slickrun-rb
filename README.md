@@ -33,3 +33,5 @@ SlickRun.add_magic_word('mymagicword', 'C:\SomeFile')
 # You can also specify params, default window start mode, run as administrator, and 32bit redirection
 SlickRun.add_magic_word('mymagicword', 'C:\SomeFile', '-some -params', 1, 1, 1)
 ```
+
+Magic words added only apply after reseting the SlickRun application.
